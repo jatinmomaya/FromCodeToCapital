@@ -1,5 +1,5 @@
 ---
-title: The Productive PM
+title: From Code to Capital
 ---
 
-<p> Thoughts and learnings from a want-to-be venture capitalist and current PM. </p>
+<p> A blog capturing the learnings, insights, and experiences from my career journey, alongside my curious explorations into various topics like product management, technology, and venture capitalism. </p>
