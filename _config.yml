@@ -10,6 +10,7 @@ linkedin_username: "jatin-momaya"
 theme: "minima"
 
 #rss: rss
+baseurl: "/FromCodeToCapital"
 
 kramdown:
   syntax_highlighter_opts:
