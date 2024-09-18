@@ -9,7 +9,7 @@ linkedin_username: "jatin-momaya"
 
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
