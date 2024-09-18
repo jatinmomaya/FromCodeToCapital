@@ -1,6 +1,6 @@
 title: From Code to Capital
-author: Jatin Momaya
-description: he/him 23 y/o Los Angeles, CA 
+author: by Jatin Momaya
+description: he/him 23 y/o <br> Los Angeles, CA 
 
 email: "momayajatin@gmail.com"
 twitter_username: "jatin_momaya"
@@ -9,7 +9,7 @@ linkedin_username: "jatin-momaya"
 
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
